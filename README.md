@@ -1,4 +1,5 @@
 # Currículo
+![Minha imagem](https://github.com/luis131313/minhabio-gcc259/blob/eed94d47a921b4726f333346745ef40c1bb1e43a/imagem.png)
 
 Meu nome é Luis Fernando, sou estudante de Ciência da Computação, possuo experiência na área de Desenvolvimento Front-end e Product owner.
 
