@@ -1,5 +1,5 @@
 # Currículo
-![Minha imagem](https://github.com/luis131313/minhabio-gcc259/blob/eed94d47a921b4726f333346745ef40c1bb1e43a/imagem.png)
+![Minha imagem](https://github.com/luis131313/minhabio-gcc259/blob/a4fc0c1f2139ac3bf5aff04456c07fc29e3d4337/72032386.jfif)
 
 Meu nome é Luis Fernando, sou estudante de Ciência da Computação, possuo experiência na área de Desenvolvimento Front-end e Product owner.
 
@@ -13,9 +13,9 @@ Email: luisfsf1313@gmail.com
 
 ## Formação acadêmica
 
-* Universidade Federal de Lavras – Ciência da Computação – Conclusão em Dezembro de 2023.
+*Universidade Federal de Lavras – Ciência da Computação – Conclusão em Dezembro de 2023.*
 
-* Durante a graduação já realizzei uma pesquisa sobre métodos de detecção facial e redução da dimensionalidade dos dados, orientado pela Doutora Paula Christina Figueira Cardoso e participaei da empresa júnior Comp Júnior.
+* Durante a graduação realizei uma pesquisa sobre métodos de detecção facial e redução da dimensionalidade dos dados, orientado pela Doutora Paula Christina Figueira Cardoso e participei da empresa júnior Comp Júnior.
 
 ## Experiência profissional
 
@@ -95,6 +95,8 @@ Email: luisfsf1313@gmail.com
 
 HTML, CSS e JavaScript básico
 
+Banco de dados SQL
+
 C/C++
 
 Python básico
@@ -103,9 +105,11 @@ Framework Bootstrap
 
 Framework Vue.js
 
-Versionamento de código (Gitlab)
+Framework React
 
-Metodologia ágil Scrum
+Versionamento de código (Gitlab, Github e Azure)
+
+Metodologias ágeis Scrum, Kanban e PBB.
 
 Edição de vídeos (Adobe Premiere e Adobe Audition) 
 
@@ -121,7 +125,7 @@ Negociador
 
 Gestor de grupo 
 
-Espírito criativo
+Criatividade
 
 Organizado
 
